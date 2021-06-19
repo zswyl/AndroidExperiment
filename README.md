@@ -10,14 +10,13 @@
 
 ## 实验截图如下：
 
-<center>
-  <figure>
+  <div>
     <img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/%E5%AE%89%E5%8D%93%E5%AE%9E%E9%AA%8C%E4%BA%8C-1.png" width="20%">
     <img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/%E5%AE%89%E5%8D%93%E5%AE%9E%E9%AA%8C%E4%BA%8C-2.png" width="20%">
     <img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/%E5%AE%89%E5%8D%93%E5%AE%9E%E9%AA%8C%E4%BA%8C-3.png" width="20%">
     <img src="https://gitee.com/moshaoyu/PicGo_img/raw/master/images/%E5%AE%89%E5%8D%93%E5%AE%9E%E9%AA%8C%E4%BA%8C-4.png" width="20%">
-  </figure>
-</center>
+  </div>
+
   
 # 实验三 广播的使用
 
