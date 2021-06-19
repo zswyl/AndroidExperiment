@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">软件1802 朱松望 1811030202</string>
+    <string name="main_txt">启动指定Action、指定Category对应的Activity</string>
+    <string name="imp_txt">隐式Intent</string>
+    <string name="display_txt">传递数据：HelloWorld</string>
+    <string name="deliver_txt">从下一个活动返回数据</string>
+    <string name="close_txt">结束本活动并向上一个活动传递数据：HelloWorld</string>
+
+</resources>
